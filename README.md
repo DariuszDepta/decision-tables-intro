@@ -69,7 +69,7 @@ _Pollack, S.L., Hicks, H.T.Jr., Harrison, W.J.: "Decision Tables: Theory and Pra
 >   Unit tests can be written to verify the output of a decision table based on different input values,
 >   without needing complex setup or mocking.
 
-## Decision table history
+## The history of decision tables
 
 (tbd)
 
