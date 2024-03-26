@@ -88,7 +88,7 @@ Structure:
 
 ![early-decision-table-structure](./assets/early-decision-table-structure.png)
 
-Example:
+Example (Unicode):
 
 ![early-decision-table](./assets/early-decision-table.png)
 
@@ -100,7 +100,9 @@ Structure:
 
 ![rules-as-columns](./assets/rules-as-columns.png)
 
-Example:
+Example (Unicode):
+
+![rules-as-columns-dtb](./assets/rules-as-columns-dtb.png)
 
 #### Rules as rows
 
@@ -108,7 +110,7 @@ Structure:
 
 ![rules-as-rows](./assets/rules-as-rows.png)
 
-Example:
+Example (Unicode):
 
 ![rules-as-rows-dtb](./assets/rules-as-rows-dtb.png)
 
@@ -120,4 +122,5 @@ $ cargo install dsntk
 
 ```shell
 $ dsntk edt input.ctx rules-as-rows.dtb 
+$ dsntk edt input.ctx rules-as-columns.dtb
 ```
