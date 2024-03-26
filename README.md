@@ -94,6 +94,19 @@ Example:
 
 ### Decision tables standarized in DMN (2015-present)
 
+#### Rules as columns
+
+Structure:
+
 ![rules-as-columns](./assets/rules-as-columns.png)
 
+Example:
+
+#### Rules as rows
+
+Structure:
+
 ![rules-as-rows](./assets/rules-as-rows.png)
+
+Example:
+
