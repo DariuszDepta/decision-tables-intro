@@ -110,3 +110,14 @@ Structure:
 
 Example:
 
+![rules-as-rows-dtb](./assets/rules-as-rows-dtb.png)
+
+## Does it somehow work?
+
+```shell
+$ cargo install dsntk
+```
+
+```shell
+$ dsntk edt input.ctx rules-as-rows.dtb 
+```
