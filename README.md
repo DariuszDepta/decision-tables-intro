@@ -82,7 +82,18 @@ logical AND shown below:
 
 ![logical-and](./assets/logical-and.png)
 
-### Early decision table
+### Early decision tables (1957-2015)
+
+Structure:
 
 ![early-decision-table-structure](./assets/early-decision-table-structure.png)
 
+Example:
+
+![early-decision-table](./assets/early-decision-table.png)
+
+### Decision tables standarized in DMN
+
+![rules-as-columns](./assets/rules-as-columns.png)
+
+![rules-as-rows](./assets/rules-as-rows.png)
