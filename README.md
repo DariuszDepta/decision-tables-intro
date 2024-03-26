@@ -82,3 +82,7 @@ logical AND shown below:
 
 ![logical-and](./assets/logical-and.png)
 
+### Early decision table
+
+![early-decision-table-structure](./assets/early-decision-table-structure.png)
+
