@@ -92,7 +92,7 @@ Example:
 
 ![early-decision-table](./assets/early-decision-table.png)
 
-### Decision tables standarized in DMN
+### Decision tables standarized in DMN (2015-present)
 
 ![rules-as-columns](./assets/rules-as-columns.png)
 
