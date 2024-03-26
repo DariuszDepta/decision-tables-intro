@@ -124,3 +124,7 @@ $ cargo install dsntk
 $ dsntk edt input.ctx rules-as-rows.dtb 
 $ dsntk edt input.ctx rules-as-columns.dtb
 ```
+
+## Exercise
+
+(temporarily hidden)
