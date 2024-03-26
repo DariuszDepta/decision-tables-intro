@@ -73,3 +73,12 @@ _Pollack, S.L., Hicks, H.T.Jr., Harrison, W.J.: "Decision Tables: Theory and Pra
 
 (tbd)
 
+## Examples
+
+### Truth table
+
+[Truth table](https://en.wikipedia.org/wiki/Truth_table) can be percieved as the ancestor of decision table, like 
+logical AND shown below:
+
+![logical-and](./assets/logical-and.png)
+
