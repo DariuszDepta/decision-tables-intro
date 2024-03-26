@@ -21,7 +21,7 @@ _Pollack, S.L., Hicks, H.T.Jr., Harrison, W.J.: "Decision Tables: Theory and Pra
 > They are algorithms whose output is a set of actions. The information expressed in decision tables could also be represented
 > as decision trees or in a programming language as a series of if-then-else and switch-case statements.
 
-### DMN (2024)
+### DMN (2015-2024)
 
 [Decision Model and Notation specification v1.5](https://www.omg.org/spec/DMN)
 
