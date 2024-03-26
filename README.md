@@ -1,4 +1,4 @@
-# Introduction to decision tables
+# Introduction to `DECISION TABLES`
 
 ## What the decision table is?
 
