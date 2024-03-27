@@ -127,4 +127,22 @@ $ dsntk edt input.ctx rules-as-columns.dtb
 
 ## Exercise
 
-(temporarily hidden)
+### Question
+
+How to convert this truth table
+
+![truth-table](./assets/logical-and.png)
+
+into decision table?
+
+### Answer
+
+![decision-table](./exercise/table.png)
+
+```shell
+$ cd exercise
+$ ./run
+true
+```
+
+See [exercise](./exercise) directory for details.
