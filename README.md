@@ -146,3 +146,7 @@ true
 ```
 
 See [exercise](./exercise) directory for details.
+
+---
+
+All source files are in [assets](./assets) and [exercise](./exercise) directories. 
